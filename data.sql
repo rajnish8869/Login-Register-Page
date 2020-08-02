@@ -40,7 +40,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id`, `name`, `email`, `phone`, `password`) VALUES
-(0, 'Rajnish Kumar Singh', 'rajnish8869@gmail.com', '+917010342994', 'Delhi', '12345678');
+(0, 'Rajnish Kumar Singh', 'rajnish8869@gmail.com', '+917010342994', '12345678');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
